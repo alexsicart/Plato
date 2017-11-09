@@ -11,9 +11,9 @@ Explicat en el **Mite de la Caverna** que explica les dues realitats que són:
 - Món Sensible
      - és capta amb sentits.
      - és
-      - IMPERFECTE.
-      - CANVIANT.
-      - PARTICULAR.
+        - IMPERFECTE.
+        - CANVIANT.
+        - PARTICULAR.
 
 - Món Intel·ligible
     - és capta amb sentits.
