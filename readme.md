@@ -42,3 +42,10 @@ Explicat en el **Mite de la Caverna** que explica les dues realitats que són:
 El mite compara l’ànima humana a un carro alat o «força en la qual van naturalment units un auriga i una parella de cavalls alats» (Fedre, 246a). L'auriga condueix un carro tirat per una parella de cavalls un dels quals és blanc, bell i bo; l'altre, negre, lleig i dolent. El cavall blanc simbolitza les tendències positives de l'home, les passions nobles com el coratge o valor, la ira, l'esperança; s'acostuma a anomenar part irascible de l’ànima i està localitzada en el pit. El cavall negre simbolitza les tendències negatives de l'home, els desitjos més baixos, l'instint de conservació, la sexualitat; s'acostuma a anomenar part concupiscible de l'home i està localitzada en el ventre. L'auriga simbolitza la capacitat intel.lectual de l'home o pensament, s'acostuma a anomenar part racional i esta localitzada en el cap.
 
 L'ànima, simbolitzada en el carro alat, viu i es mou en el món de les idees; aquest és el seu lloc i casa seva. Si l'auriga controla la parella de cavalls, li serà possible, gràcies al poder propi de les ales, d'enlairar-se ben amunt i gaudir de la contemplació de les idees. Ara bé, si, altrament, els cavalls se li revolten i no sap enlairar-los, ho tindrà tan difícil per contemplar les idees com inepte sigui en la conducció.
+
+## Política
+proposa -->
+## Societat Ideal
+  - Ordenada amb justícia.
+    - Que consisteixi en Adequació entre tipus de persona i ocupació social.
+  - Governada per filòsofs.
